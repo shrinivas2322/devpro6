@@ -1,0 +1,12 @@
+{
+  "name": "devpro6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "stert"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
